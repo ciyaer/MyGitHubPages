@@ -105,12 +105,15 @@
 
 ### 开源库：
 
+* * *
 - **bitcoinj:**
 
     A library for working with Bitcoin
 
    -  https://bitcoinj.github.io/
    - https://github.com/bitcoinj/bitcoinj
+
+* * *
    
 
 - **bitcoinjs:**
@@ -422,14 +425,17 @@ http://gobittest.appspot.com/PrivateKey
 https://blog.csdn.net/jason_cuijiahui/article/details/79785664
 
 
+
 ## 图示
 
 ![比特币@2x.png](https://upload-images.jianshu.io/upload_images/1952707-dd9f69126529524f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+
 ## Donation 捐赠
 
 - BTC Address：**3G8soXRrrGxrNWSHrsPiZBS4d1UhJkijSx**
+
 
 
 ## 总结
@@ -439,12 +445,14 @@ https://blog.csdn.net/jason_cuijiahui/article/details/79785664
 [【联系我（QQ：3500229193）或者加入社群，请戳这里！】](https://www.jianshu.com/p/d9774731da2c)
 
 
+
 ## 参考链接
 
 - https://en.wikipedia.org/wiki/Bitcoin
 - [https://zh.wikipedia.org/wiki/比特币](https://zh.wikipedia.org/wiki/比特币)
 - https://en.bitcoin.it/wiki/Wallet_import_format
 - https://github.com/mistydew/blockchain
+
 
 
 ## 更新日志
