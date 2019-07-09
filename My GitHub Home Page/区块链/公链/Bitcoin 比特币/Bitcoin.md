@@ -6,6 +6,7 @@
 **❀ 比特币的发行总量的极限值是2100万 ❀**
 
 
+
 ## BTC 区块链浏览器
 
 - **Blockchain.info**
@@ -16,18 +17,27 @@
    
    https://www.blockchain.com/explorer
 
+
 - **BlockCypher**
-        https://live.blockcypher.com
+
+    https://live.blockcypher.com
+    
 
 - **BlockExplorer**
-https://blockexplorer.com
+
+    https://blockexplorer.com
+    
 
 - **BitPay Insight**
-https://insight.bitpay.com
-https://test-insight.bitpay.com
+    
+    https://insight.bitpay.com
+    https://test-insight.bitpay.com
+
 
 - **Samourai**
-https://oxt.me
+    
+    https://oxt.me
+
 
 
 ## 助记词转换器
