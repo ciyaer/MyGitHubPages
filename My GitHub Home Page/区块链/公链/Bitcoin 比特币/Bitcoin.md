@@ -107,8 +107,9 @@
 
     A library for working with Bitcoin
 
-   -  https://bitcoinj.github.io/
-   - https://github.com/bitcoinj/bitcoinj
+    https://bitcoinj.github.io/
+    
+    https://github.com/bitcoinj/bitcoinj
 
 
 * * *
@@ -116,9 +117,9 @@
 
     Open Source Organisation for Bitcoin JavaScript libraries
 
-    - https://github.com/bitcoinjs
+    https://github.com/bitcoinjs
     
-    - https://github.com/bitcoinjs/bitcoinjs-lib
+    https://github.com/bitcoinjs/bitcoinjs-lib
     
     
 * * *
@@ -126,7 +127,7 @@
 
     Awesome Bitcoin toolkit for ObjC and Swift
 
-    - https://github.com/oleganza/CoreBitcoin
+    https://github.com/oleganza/CoreBitcoin
 
 
 * * *
@@ -134,7 +135,7 @@
 
     A full stack for bitcoin and blockchain-based applications [https://bitcore.io/](https://bitcore.io/)
 
-    - https://github.com/bitpay/bitcore
+    https://github.com/bitpay/bitcore
 
 
 * * *
@@ -142,14 +143,15 @@
 
     Bitcoin Core integration/staging tree
     
-    - https://github.com/bitcoin
+    https://github.com/bitcoin
     
 
 * * *
 - **bitheri:**
 
-    - http://bither.net
-    - https://github.com/bither/bitheri
+    http://bither.net
+    
+    https://github.com/bither/bitheri
 
 
 * * *
@@ -157,32 +159,39 @@
 
     Bitcoin protocol toolkit for Swift
     
-    - https://github.com/yenom/BitcoinKit
-    - https://github.com/kishikawakatsumi/BitcoinKit
-    - https://github.com/Jax1993/BitcoinKit
+    https://github.com/yenom/BitcoinKit
+    
+    https://github.com/kishikawakatsumi/BitcoinKit
+    
+    https://github.com/Jax1993/BitcoinKit
 
 
 * * *
 - **Bitcoin Developer Reference:**
 
-    - https://bitcoin.org/en/developer-reference
-    - https://bitcoin.org/en/developer-guide
-    - https://bitcoin.org/zh_CN/
-    - https://bitcoin.org/zh_CN/development#more
+    https://bitcoin.org/en/developer-reference
+    
+    https://bitcoin.org/en/developer-guide
+    
+    https://bitcoin.org/zh_CN/
+    
+    https://bitcoin.org/zh_CN/development#more
     
 
 * * *
 - **BitcoinDeveloperGuide_zhcn: 比特币开发者指南(中文版)**
 
-    - https://github.com/vacing/BitcoinDeveloperGuide_zhcn
-    - https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html
+    https://github.com/vacing/BitcoinDeveloperGuide_zhcn
+    
+    https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html
 
 
 * * *
 - **Bitcoin Projects:**
 
-    - http://www.bitcoinprojects.net
-    - https://bitcoin.org/en/wallets/mobile/ios/
+    http://www.bitcoinprojects.net
+    
+    https://bitcoin.org/en/wallets/mobile/ios/
     
 
 * * *
@@ -190,8 +199,9 @@
 
     A native framework for working with Bitcoin on iOS and OSX
     
-    - https://github.com/DoubleSha/BitcoinSwift
-    - https://github.com/blocktree/BitcoinSwift
+    https://github.com/DoubleSha/BitcoinSwift
+    
+    https://github.com/blocktree/BitcoinSwift
 
 
 * * *
@@ -199,7 +209,7 @@
 
     Full SPV wallet toolkit implementation for Bitcoin and Bitcoin Cash protocols. Implemented on Swift.
 
-    -https://github.com/horizontalsystems/wallet-kit-ios
+    https://github.com/horizontalsystems/wallet-kit-ios
 
 
 * * *
@@ -207,7 +217,7 @@
 
     Full SPV wallet toolkit implementation for Bitcoin and Bitcoin Cash protocols. Implemented on Kotlin.
 
-    - https://github.com/horizontalsystems/wallet-kit-android
+    https://github.com/horizontalsystems/wallet-kit-android
 
 
 * * *
@@ -215,29 +225,31 @@
 
     Bitcoin library for Arduino (Work in progress)
 
-    - https://github.com/arduino-bitcoin/arduino-bitcoin
+    https://github.com/arduino-bitcoin/arduino-bitcoin
 
 
 * * *
 - **Bitcoin in Go**
 
-    - https://github.com/btcsuite
+    https://github.com/btcsuite
 
 
 * * *
 - **gobtclib**
 
-    - client library with golang for bitcoin
+    client library with golang for bitcoin
 
-    - https://github.com/chainlibs/gobtclib
+    https://github.com/chainlibs/gobtclib
     
 
 * * *
 - **Trust Wallet（trust-core）**
 
-    - https://github.com/TrustWallet
-    - https://github.com/TrustWallet/trust-core
-    - https://github.com/TrustWallet/trust-core/tree/master/Sources/Bitcoin
+    https://github.com/TrustWallet
+    
+    https://github.com/TrustWallet/trust-core
+    
+    https://github.com/TrustWallet/trust-core/tree/master/Sources/Bitcoin
 
 
 * * *
@@ -245,11 +257,11 @@
 
     imToken(TokenCore)开源技术交流群：901650358
 
-    - https://github.com/consenlabs
+    https://github.com/consenlabs
 
     a blockchain private key management library on iOS
 
-    - https://github.com/consenlabs/token-core-ios
+    https://github.com/consenlabs/token-core-ios
 
 
 * * *
@@ -257,11 +269,11 @@
 
     imToken(TokenCore)开源技术交流群：901650358
 
-    - https://github.com/consenlabs
+    https://github.com/consenlabs
 
     a blockchain private key management library on android
 
-    - https://github.com/consenlabs/token-core-android
+    https://github.com/consenlabs/token-core-android
 
 
 * * *
@@ -272,8 +284,9 @@
 
     bread - bitcoin wallet 
 
-    - http://breadapp.com
-    - https://github.com/voisine/breadwallet-ios
+    http://breadapp.com
+    
+    https://github.com/voisine/breadwallet-ios
 
 
 * * *
@@ -281,8 +294,9 @@
 
     Native iOS Bitcoin wallet 
 
-    - http://bitstoreapp.com
-    - https://github.com/BitStore/BitStore-iOS
+    http://bitstoreapp.com
+    
+    https://github.com/BitStore/BitStore-iOS
     
 
 * * *
@@ -290,7 +304,7 @@
 
     Blockchain, merchant, QR code, Bitcoin wallet, BTC, Payment integration
 
-    - https://github.com/chuch0805/iOS_Blockchain-Merchant
+    https://github.com/chuch0805/iOS_Blockchain-Merchant
 
 
 * * *
@@ -298,7 +312,7 @@
 
     Chance Bitcoin Wallet — swift opensource bitcoin wallet
 
-    - https://github.com/zhiquan911/chance_btc_wallet
+    https://github.com/zhiquan911/chance_btc_wallet
 
 
 * * *
@@ -306,7 +320,7 @@
     
     Airbitz iOS GUI
 
-    - https://github.com/Airbitz/airbitz-ios-gui-private
+    https://github.com/Airbitz/airbitz-ios-gui-private
 
 
 * * *
@@ -314,7 +328,7 @@
 
     GreenAddress' open source Android (Cordova) client [https://greenaddress.it/](https://greenaddress.it/)
 
-    - https://github.com/greenaddress/WalletCordova
+    https://github.com/greenaddress/WalletCordova
 
 
 * * *
@@ -322,7 +336,7 @@
 
     Coin.Space Digital currency wallet [https://www.coin.space](https://www.coin.space/)
 
-    - https://github.com/CoinSpace/CoinSpace
+    https://github.com/CoinSpace/CoinSpace
 
 
 * * *
@@ -330,7 +344,7 @@
 
     Bither - a simple and secure Bitcoin wallet! [http://bither.net](http://bither.net/)
     
-    - https://github.com/bither/bither-ios
+    https://github.com/bither/bither-ios
 
 
 * * *
@@ -338,7 +352,7 @@
 
     arcbit - iOS bitcoin wallet [http://arcbit.io](http://arcbit.io/)
 
-    - https://github.com/arcbit/arcbit-ios
+    https://github.com/arcbit/arcbit-ios
 
 
 * * *
@@ -346,7 +360,7 @@
 
     Mycelium Bitcoin Wallet for iOS.  [http://mycelium.com](http://mycelium.com/)
 
-    - https://github.com/mycelium-com/wallet-ios
+    https://github.com/mycelium-com/wallet-ios
     
     
 * * *
@@ -354,7 +368,7 @@
 
     A secure and fully decentralized crypto currency wallet app for iOS users. This wallet uses SPV protocol. [http://horizontalsystems.io](http://horizontalsystems.io/)
 
-    - https://github.com/horizontalsystems/bank-wallet-ios-app
+    https://github.com/horizontalsystems/bank-wallet-ios-app
 
 
 * * *
@@ -365,7 +379,7 @@
 
     Samourai Bitcoin Wallet for Android.  [https://samouraiwallet.com](https://samouraiwallet.com/)
 
-    - https://github.com/Samourai-Wallet/samourai-wallet-android
+    https://github.com/Samourai-Wallet/samourai-wallet-android
 
 
 * * *
@@ -373,7 +387,7 @@
 
     Mycelium Bitcoin Wallet for Android [http://mycelium.com](http://mycelium.com/)
 
-    - https://github.com/mycelium-com/wallet-ios
+    https://github.com/mycelium-com/wallet-ios
 
 
 * * *
@@ -381,7 +395,7 @@
 
     A secure and fully decentralized crypto currency wallet app for Android users. This wallet uses SPV protocol.[http://horizontalsystems.io](http://horizontalsystems.io/)
 
-    - https://github.com/horizontalsystems/bank-wallet-android-app
+    https://github.com/horizontalsystems/bank-wallet-android-app
 
 * * *
 
@@ -391,59 +405,63 @@
 
 - **BTC.com：**
 
-    - https://btc.com/api-doc
-    - https://github.com/btccom
-   -  https://dev.btc.com/docs/php
-    - PHP SDK：https://github.com/blocktrail/blocktrail-sdk-php
-    - NodeJS SDK：https://github.com/blocktrail/blocktrail-sdk-nodejs
+    https://btc.com/api-doc
+    
+    https://github.com/btccom
+   
+    https://dev.btc.com/docs/php
+    
+    PHP SDK：https://github.com/blocktrail/blocktrail-sdk-php
+    
+    NodeJS SDK：https://github.com/blocktrail/blocktrail-sdk-nodejs
 
 
 - **Original Bitcoin client/API calls list**
     
-    - https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
+    https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
 
 
 - **Bitcoin Core APIs**
 
-    - https://bitcoin.org/en/developer-reference#bitcoin-core-apis
+    https://bitcoin.org/en/developer-reference#bitcoin-core-apis
 
 
 - **BlockCypher**
 
-    - https://www.blockcypher.com/dev/
+    https://www.blockcypher.com/dev/
 
 
 - **Bitcore**
 
-    - https://bitcore.io/api/
+    https://bitcore.io/api/
 
 
 - **BITBOX**
     
-    - https://developer.bitcoin.com/bitbox/docs/getting-started
+    https://developer.bitcoin.com/bitbox/docs/getting-started
     
     
 
 ## BIP：
 
-- **比特币改进方案 Bitcoin Improvement Proposals**
+- **比特币改进方案 Bitcoin Improvement Proposals：**
 
-    - https://github.com/bitcoin/bips
-
-
-- **SLIP-0044 : Registered coin types for BIP-0044**
-
-    - https://github.com/satoshilabs/slips/blob/master/slip-0044.md
+    https://github.com/bitcoin/bips
 
 
-- **比特币改进协议BIP32(翻译)**
+- **SLIP-0044 : Registered coin types for BIP-0044：**
 
-    - https://blog.csdn.net/pony_maggie/article/details/76178228
+    https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 
 
-- **区块链钱包之BIP32, BIP39, BIP44**
+- **比特币改进协议BIP32(翻译)：**
 
-    - https://blog.csdn.net/qq634416025/article/details/79686015
+    https://blog.csdn.net/pony_maggie/article/details/76178228
+
+
+- **区块链钱包之BIP32, BIP39, BIP44：**
+
+    https://blog.csdn.net/qq634416025/article/details/79686015
 
 
 
@@ -515,68 +533,111 @@
 
 ## BTC 文章：
 
-- **比太钱包的博客**
-http://blog.sina.com.cn/bither
+- **比太钱包的博客:**
 
-- **nuptuser的专栏**
-https://blog.csdn.net/gammag/article/category/6954035
+    http://blog.sina.com.cn/bither
 
-- **老杨QQ122209017的博客**
-https://blog.csdn.net/sinat_34070003/article/category/7582246
 
-- **浅析比特币的找零机制**
-https://blog.csdn.net/wo541075754/article/details/53560061
+- **nuptuser的专栏:**
 
-- **比特币 区块链 几种交易标准详解 P2PKH、P2PK、MS、P2SH加密方式**
-https://blog.csdn.net/jerry81333/article/details/56824166
+    https://blog.csdn.net/gammag/article/category/6954035
 
-- **BIP16 P2SH交易脚本**
-https://blog.csdn.net/sinat_34070003/article/details/79871044
 
-- **比特币系统的脚本（Script)——交易生成和验证的原理（第一部分）（初稿）**
-https://blog.csdn.net/taifei/article/details/73321293
+- **老杨QQ122209017的博客:**
 
-- **多签名交易和P2SH**
-http://blog.sina.com.cn/s/blog_130223eeb0101ipwi.html
+    https://blog.csdn.net/sinat_34070003/article/category/7582246
 
-- **理解比特币脚本**
-https://zhuanlan.zhihu.com/p/25461051
 
-- **比特币脚本及交易分析 - 智能合约雏形**
-https://blockflow.net/t/topic/196
+- **浅析比特币的找零机制:**
 
-- **Linuxest**
-https://blog.csdn.net/ddk3001/article/category/7736876
+    https://blog.csdn.net/wo541075754/article/details/53560061
 
-- **一文看懂怎样用 Python 创建比特币交易**
-https://blog.csdn.net/Blockchain_lemon/article/details/79798913
 
-- **隔离见证**
-https://blog.csdn.net/taifei/article/details/73479998
-https://www.jianshu.com/p/2a5e038074a0
-[https://baike.baidu.com/item/隔离见证/22448459?fr=aladdin](https://baike.baidu.com/item/隔离见证/22448459?fr=aladdin)
-https://blog.csdn.net/sinat_34070003/article/details/79893114
-https://www.buybitcoinworldwide.com/segwit/
-http://book.8btc.com/books/6/masterbitcoin2cn/_book/appdx-segwit.html
-https://mp.weixin.qq.com/s/8glioqKPAhfGTNy509jEpA
-https://bitcoincore.org/en/segwit_wallet_dev/
-https://bitcoin.fr/les-avantages-de-segregated-witness/
+- **比特币 区块链 几种交易标准详解 P2PKH、P2PK、MS、P2SH加密方式:**
 
-- **脚本**
-https://en.bitcoin.it/wiki/Script
+    https://blog.csdn.net/jerry81333/article/details/56824166
 
-- **Andreas M. Antonopoulos: Advanced Bitcoin Scripting**
-https://www.youtube.com/watch?v=yU3Sr07Qnxg
 
-- **压缩格式私钥**
-https://www.jianshu.com/p/5a8e1cde33e9
+- **BIP16 P2SH交易脚本:**
 
-- **WIF（Wallet Import Format）**
-https://en.bitcoin.it/wiki/Wallet_import_format
-http://gobittest.appspot.com/PrivateKey
+    https://blog.csdn.net/sinat_34070003/article/details/79871044
 
-- **OP_RETURN（利用比特币网络存储数据）**
-https://blog.csdn.net/jason_cuijiahui/article/details/79785664
+
+- **比特币系统的脚本（Script)——交易生成和验证的原理（第一部分）（初稿）:**
+
+    https://blog.csdn.net/taifei/article/details/73321293
+
+
+- **多签名交易和P2SH:**
+
+    http://blog.sina.com.cn/s/blog_130223eeb0101ipwi.html
+
+
+- **理解比特币脚本:**
+
+    https://zhuanlan.zhihu.com/p/25461051
+
+
+- **比特币脚本及交易分析 - 智能合约雏形:**
+
+    https://blockflow.net/t/topic/196
+
+
+- **Linuxest:**
+
+    https://blog.csdn.net/ddk3001/article/category/7736876
+
+
+- **一文看懂怎样用 Python 创建比特币交易:**
+- https://blog.csdn.net/Blockchain_lemon/article/details/79798913
+
+
+- **隔离见证:**
+
+    https://blog.csdn.net/taifei/article/details/73479998
+    
+    https://www.jianshu.com/p/2a5e038074a0
+    
+    [https://baike.baidu.com/item/隔离见证/22448459?fr=aladdin](https://baike.baidu.com/item/隔离见证/22448459?fr=aladdin)
+    
+    https://blog.csdn.net/sinat_34070003/article/details/79893114
+    
+    https://www.buybitcoinworldwide.com/segwit/
+    
+    http://book.8btc.com/books/6/masterbitcoin2cn/_book/appdx-segwit.html
+    
+    https://mp.weixin.qq.com/s/8glioqKPAhfGTNy509jEpA
+    
+    https://bitcoincore.org/en/segwit_wallet_dev/
+    
+    https://bitcoin.fr/les-avantages-de-segregated-witness/
+
+
+- **脚本:**
+
+    https://en.bitcoin.it/wiki/Script
+
+
+- **Andreas M. Antonopoulos: Advanced Bitcoin Scripting:**
+
+    https://www.youtube.com/watch?v=yU3Sr07Qnxg
+
+
+- **压缩格式私钥:**
+
+    https://www.jianshu.com/p/5a8e1cde33e9
+
+
+- **WIF（Wallet Import Format）:**
+
+    https://en.bitcoin.it/wiki/Wallet_import_format
+
+    http://gobittest.appspot.com/PrivateKey
+
+
+- **OP_RETURN（利用比特币网络存储数据）:**
+
+    https://blog.csdn.net/jason_cuijiahui/article/details/79785664
 
 
 
@@ -640,6 +701,7 @@ https://blog.csdn.net/jason_cuijiahui/article/details/79785664
 | 2019.05.17 | 25 |  |
 | 2019.06.14 | 26 |  |
 | 2019.06.22 | 27 |  |
+| 2019.07.09 | 27 | 首次迁移到 GitHub 上 |
 
 
 
