@@ -140,6 +140,7 @@
     - https://github.com/bitpay/bitcore
 
 
+* * *
 - **Bitcoin:**
 
     Bitcoin Core integration/staging tree
@@ -147,12 +148,14 @@
     - https://github.com/bitcoin
     
 
+* * *
 - **bitheri:**
 
     - http://bither.net
     - https://github.com/bither/bitheri
-    
 
+
+* * *
 - **BitcoinKit:**
 
     Bitcoin protocol toolkit for Swift
@@ -162,6 +165,7 @@
     - https://github.com/Jax1993/BitcoinKit
 
 
+* * *
 - **Bitcoin Developer Reference:**
 
     - https://bitcoin.org/en/developer-reference
@@ -170,54 +174,98 @@
     - https://bitcoin.org/zh_CN/development#more
     
 
-- **BitcoinDeveloperGuide_zhcn：比特币开发者指南(中文版)**
-https://github.com/vacing/BitcoinDeveloperGuide_zhcn
-https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html
+* * *
+- **BitcoinDeveloperGuide_zhcn: 比特币开发者指南(中文版)**
 
-- **Bitcoin Projects：**
-http://www.bitcoinprojects.net
-https://bitcoin.org/en/wallets/mobile/ios/
+    - https://github.com/vacing/BitcoinDeveloperGuide_zhcn
+    - https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html
 
+
+* * *
+- **Bitcoin Projects:**
+
+    - http://www.bitcoinprojects.net
+    - https://bitcoin.org/en/wallets/mobile/ios/
+    
+
+* * *
 - **BitcoinSwift：**
-A native framework for working with Bitcoin on iOS and OSX
-https://github.com/DoubleSha/BitcoinSwift
-https://github.com/blocktree/BitcoinSwift
 
+    A native framework for working with Bitcoin on iOS and OSX
+    
+    - https://github.com/DoubleSha/BitcoinSwift
+    - https://github.com/blocktree/BitcoinSwift
+
+
+* * *
 - **wallet-kit-ios（Horizontal Systems）**
-Full SPV wallet toolkit implementation for Bitcoin and Bitcoin Cash protocols. Implemented on Swift.
-https://github.com/horizontalsystems/wallet-kit-ios
 
+    Full SPV wallet toolkit implementation for Bitcoin and Bitcoin Cash protocols. Implemented on Swift.
+
+    -https://github.com/horizontalsystems/wallet-kit-ios
+
+
+* * *
 - **wallet-kit-android（Horizontal Systems）**
-Full SPV wallet toolkit implementation for Bitcoin and Bitcoin Cash protocols. Implemented on Kotlin.
-https://github.com/horizontalsystems/wallet-kit-android
 
+    Full SPV wallet toolkit implementation for Bitcoin and Bitcoin Cash protocols. Implemented on Kotlin.
+
+    - https://github.com/horizontalsystems/wallet-kit-android
+
+
+* * *
 - **arduino-bitcoin**
-Bitcoin library for Arduino (Work in progress)
-https://github.com/arduino-bitcoin/arduino-bitcoin
 
+    Bitcoin library for Arduino (Work in progress)
+
+    - https://github.com/arduino-bitcoin/arduino-bitcoin
+
+
+* * *
 - **Bitcoin in Go**
-https://github.com/btcsuite
 
+    - https://github.com/btcsuite
+
+
+* * *
 - **gobtclib**
-client library with golang for bitcoin
-https://github.com/chainlibs/gobtclib
 
+    - client library with golang for bitcoin
+
+    - https://github.com/chainlibs/gobtclib
+    
+
+* * *
 - **Trust Wallet（trust-core）**
-https://github.com/TrustWallet
-https://github.com/TrustWallet/trust-core
-https://github.com/TrustWallet/trust-core/tree/master/Sources/Bitcoin
 
+    - https://github.com/TrustWallet
+    - https://github.com/TrustWallet/trust-core
+    - https://github.com/TrustWallet/trust-core/tree/master/Sources/Bitcoin
+
+
+* * *
 - **ConsenLabs（token-core-ios）**
-imToken(TokenCore)开源技术交流群：901650358
-https://github.com/consenlabs
-a blockchain private key management library on iOS
-https://github.com/consenlabs/token-core-ios
 
+    imToken(TokenCore)开源技术交流群：901650358
+
+    - https://github.com/consenlabs
+
+    a blockchain private key management library on iOS
+
+    - https://github.com/consenlabs/token-core-ios
+
+
+* * *
 - **ConsenLabs（token-core-android）**
-imToken(TokenCore)开源技术交流群：901650358
-https://github.com/consenlabs
-a blockchain private key management library on android
-https://github.com/consenlabs/token-core-android
+
+    imToken(TokenCore)开源技术交流群：901650358
+
+    - https://github.com/consenlabs
+
+    a blockchain private key management library on android
+
+    - https://github.com/consenlabs/token-core-android
+
 
 
 ###### iOS BTC Wallet：
