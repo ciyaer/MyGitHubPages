@@ -460,35 +460,56 @@
     
 
 - **《精通比特币》：**
-http://zhibimo.com/read/wang-miao/mastering-bitcoin/index.html
-http://book.8btc.com/masterbitcoin2cn
-http://book.8btc.com/books/6/masterbitcoin2cn/_book/
 
-- **共读《精通比特币》**
-https://www.jianshu.com/c/44222053fbe8
+    http://zhibimo.com/read/wang-miao/mastering-bitcoin/index.html
 
-- **Mastering Bitcoin**
-https://github.com/bitcoinbook/bitcoinbook
+    http://book.8btc.com/masterbitcoin2cn
 
-- **《中本聪（Satoshi Nakamoto）比特币白皮书英文版》**
-https://github.com/GammaGao/bitcoinwhitepaper/blob/master/bitcoin_en.pdf
+    http://book.8btc.com/books/6/masterbitcoin2cn/_book/
+    
 
-- **《中本聪（Satoshi Nakamoto）比特币白皮书中文版》**
-https://github.com/GammaGao/bitcoinwhitepaper/blob/master/bitcoin_cn.pdf
+- **共读《精通比特币》:**
 
-- **《比特币开发者指南英文版》**
-https://bitcoin.org/en/developer-guide
+    https://www.jianshu.com/c/44222053fbe8
+    
 
-- **《比特币开发者指南中文版》**
-https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html
-https://github.com/vacing/BitcoinDeveloperGuide_zhcn
-https://legacy.gitbook.com/book/vacing/bitcoindeveloperguide_zhcn/details
+- **Mastering Bitcoin:**
 
-- **《The Internet of Money》（第1卷）中文版**
-https://github.com/BtcGroupCn/TheInternetOfMoney_1
+    https://github.com/bitcoinbook/bitcoinbook
+    
 
-- **Blockchain Tutorial**
-https://github.com/liuchengxu/blockchain-tutorial
+- **《中本聪（Satoshi Nakamoto）比特币白皮书英文版》:**
+
+    https://github.com/GammaGao/bitcoinwhitepaper/blob/master/bitcoin_en.pdf
+    
+
+- **《中本聪（Satoshi Nakamoto）比特币白皮书中文版》:**
+
+    https://github.com/GammaGao/bitcoinwhitepaper/blob/master/bitcoin_cn.pdf
+    
+
+- **《比特币开发者指南英文版》:**
+
+    https://bitcoin.org/en/developer-guide
+    
+
+- **《比特币开发者指南中文版》:**
+
+    https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html
+
+    https://github.com/vacing/BitcoinDeveloperGuide_zhcn
+
+    https://legacy.gitbook.com/book/vacing/bitcoindeveloperguide_zhcn/details
+    
+
+- **《The Internet of Money》（第1卷）中文版:**
+
+    https://github.com/BtcGroupCn/TheInternetOfMoney_1
+
+
+- **Blockchain Tutorial:**
+
+    https://github.com/liuchengxu/blockchain-tutorial
 
 
 
