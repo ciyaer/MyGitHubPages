@@ -114,8 +114,6 @@
    - https://github.com/bitcoinj/bitcoinj
 
 * * *
-   
-
 - **bitcoinjs:**
 
     Open Source Organisation for Bitcoin JavaScript libraries
@@ -124,14 +122,14 @@
     
     - https://github.com/bitcoinjs/bitcoinjs-lib
     
-
+* * *
 - **CoreBitcoin:**
 
     Awesome Bitcoin toolkit for ObjC and Swift
 
     - https://github.com/oleganza/CoreBitcoin
 
-
+* * *
 - **Bitcore:**
 
     A full stack for bitcoin and blockchain-based applications [https://bitcore.io/](https://bitcore.io/)
