@@ -360,6 +360,7 @@
 * * *
 ### Android BTC Wallet：
 
+* * *
 - **samourai-wallet-android**
 
     Samourai Bitcoin Wallet for Android.  [https://samouraiwallet.com](https://samouraiwallet.com/)
@@ -382,45 +383,67 @@
 
     - https://github.com/horizontalsystems/bank-wallet-android-app
 
+* * *
+
 
 
 ## BTC API 文档：
 
 - **BTC.com：**
-https://btc.com/api-doc
-https://github.com/btccom
-https://dev.btc.com/docs/php
-PHP SDK：https://github.com/blocktrail/blocktrail-sdk-php
-NodeJS SDK：https://github.com/blocktrail/blocktrail-sdk-nodejs
+
+    - https://btc.com/api-doc
+    - https://github.com/btccom
+   -  https://dev.btc.com/docs/php
+    - PHP SDK：https://github.com/blocktrail/blocktrail-sdk-php
+    - NodeJS SDK：https://github.com/blocktrail/blocktrail-sdk-nodejs
+
 
 - **Original Bitcoin client/API calls list**
-https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
+    
+    - https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
+
 
 - **Bitcoin Core APIs**
-https://bitcoin.org/en/developer-reference#bitcoin-core-apis
+
+    - https://bitcoin.org/en/developer-reference#bitcoin-core-apis
+
 
 - **BlockCypher**
-https://www.blockcypher.com/dev/
+
+    - https://www.blockcypher.com/dev/
+
 
 - **Bitcore**
-https://bitcore.io/api/
+
+    - https://bitcore.io/api/
+
 
 - **BITBOX**
-https://developer.bitcoin.com/bitbox/docs/getting-started
+    
+    - https://developer.bitcoin.com/bitbox/docs/getting-started
+    
+    
 
 ## BIP：
 
 - **比特币改进方案 Bitcoin Improvement Proposals**
-https://github.com/bitcoin/bips
+
+    - https://github.com/bitcoin/bips
+
 
 - **SLIP-0044 : Registered coin types for BIP-0044**
-https://github.com/satoshilabs/slips/blob/master/slip-0044.md
+
+    - https://github.com/satoshilabs/slips/blob/master/slip-0044.md
+
 
 - **比特币改进协议BIP32(翻译)**
-https://blog.csdn.net/pony_maggie/article/details/76178228
+
+    - https://blog.csdn.net/pony_maggie/article/details/76178228
+
 
 - **区块链钱包之BIP32, BIP39, BIP44**
-https://blog.csdn.net/qq634416025/article/details/79686015
+
+    - https://blog.csdn.net/qq634416025/article/details/79686015
 
 
 
