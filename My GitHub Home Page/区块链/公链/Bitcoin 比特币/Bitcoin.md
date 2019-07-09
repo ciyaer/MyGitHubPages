@@ -449,10 +449,15 @@
 
 ## BTC 电子书：
 
-- **巴比特：http://book.8btc.com**
+- **巴比特：**
 
-- **Programming The Blockchain in C#**
-https://programmingblockchain.gitbooks.io/programmingblockchain/content/
+    http://book.8btc.com
+
+
+- **Programming The Blockchain in C#:**
+
+    https://programmingblockchain.gitbooks.io/programmingblockchain/content/
+    
 
 - **《精通比特币》：**
 http://zhibimo.com/read/wang-miao/mastering-bitcoin/index.html
