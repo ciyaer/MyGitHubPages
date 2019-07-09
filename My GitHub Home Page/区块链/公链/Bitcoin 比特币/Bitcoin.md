@@ -46,23 +46,33 @@
 ## 助记词转换器
 
 - **Mnemonic Code Converter**
-https://iancoleman.io
-https://iancoleman.io/bip39/
+
+    https://iancoleman.io
+
+    https://iancoleman.io/bip39/
+
 
 
 ## How Does Bitcoin Work？
-https://learnmeabitcoin.com
+
+- https://learnmeabitcoin.com
+
 
 
 ## BTC 矿工费
+
 - https://bitcoinfees.earn.com/#fees
 
 
+
 ## 脚本类型统计
+
 - https://btc.com/stats/script
 
 
+
 ## BTC 测试币领取
+
 - https://testnet.manu.backend.hamburg/faucet
 - http://tpfaucet.appspot.com
 - http://bitcoinfaucet.uo1.net/send.php
@@ -71,9 +81,12 @@ https://learnmeabitcoin.com
 请使用测试网的 BTC 地址（Bitcoin Testnet Address）！！！
 
 
+
 ## BTC 问答区
-- Bitcoin Stack Exchange
+
+* Bitcoin Stack Exchange
 https://bitcoin.stackexchange.com
+
 
 
 ## BTC 钱包客户端
