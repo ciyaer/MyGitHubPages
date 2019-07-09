@@ -105,7 +105,7 @@
 
 ### 开源库：
 
-- **bitcoinj：**
+- **bitcoinj:**
 
     A library for working with Bitcoin
 
@@ -113,30 +113,41 @@
    - https://github.com/bitcoinj/bitcoinj
    
 
-- **bitcoinjs**
+- **bitcoinjs:**
 
     Open Source Organisation for Bitcoin JavaScript libraries
 
-    https://github.com/bitcoinjs
+    - https://github.com/bitcoinjs
     
-    https://github.com/bitcoinjs/bitcoinjs-lib
+    - https://github.com/bitcoinjs/bitcoinjs-lib
     
 
-- **CoreBitcoin：**
-Awesome Bitcoin toolkit for ObjC and Swift
-https://github.com/oleganza/CoreBitcoin
+- **CoreBitcoin:**
 
-- **Bitcore**
-A full stack for bitcoin and blockchain-based applications [https://bitcore.io/](https://bitcore.io/)
-https://github.com/bitpay/bitcore
+    Awesome Bitcoin toolkit for ObjC and Swift
 
-- **Bitcoin：**
-Bitcoin Core integration/staging tree
-https://github.com/bitcoin
+    - https://github.com/oleganza/CoreBitcoin
 
-- **bitheri：**
-http://bither.net
-https://github.com/bither/bitheri
+
+- **Bitcore:**
+
+    A full stack for bitcoin and blockchain-based applications [https://bitcore.io/](https://bitcore.io/)
+
+    - https://github.com/bitpay/bitcore
+
+
+- **Bitcoin:**
+
+    Bitcoin Core integration/staging tree
+    
+    - https://github.com/bitcoin
+    
+
+- **bitheri:**
+
+    - http://bither.net
+    - https://github.com/bither/bitheri
+    
 
 - **BitcoinKit**
 Bitcoin protocol toolkit for Swift
