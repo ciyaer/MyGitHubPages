@@ -114,9 +114,13 @@
    
 
 - **bitcoinjs**
-Open Source Organisation for Bitcoin JavaScript libraries
-https://github.com/bitcoinjs
-https://github.com/bitcoinjs/bitcoinjs-lib
+
+    Open Source Organisation for Bitcoin JavaScript libraries
+
+    https://github.com/bitcoinjs
+    
+    https://github.com/bitcoinjs/bitcoinjs-lib
+    
 
 - **CoreBitcoin：**
 Awesome Bitcoin toolkit for ObjC and Swift
