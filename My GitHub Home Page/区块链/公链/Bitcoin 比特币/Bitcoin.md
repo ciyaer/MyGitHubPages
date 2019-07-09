@@ -78,14 +78,15 @@
 - http://bitcoinfaucet.uo1.net/send.php
 - http://bitcoinfaucet.uo1.net/send.php
 
-请使用测试网的 BTC 地址（Bitcoin Testnet Address）！！！
+【注】请使用测试网的 BTC 地址（Bitcoin Testnet Address）！！！
 
 
 
 ## BTC 问答区
 
-* Bitcoin Stack Exchange
-https://bitcoin.stackexchange.com
+- Bitcoin Stack Exchange
+
+    https://bitcoin.stackexchange.com
 
 
 
@@ -95,17 +96,22 @@ https://bitcoin.stackexchange.com
 - http://webhdwallet.github.io
 
 
+
 ## BTC 钱包开源项目
 
 - [Bitcoin Github 搜索结果](https://github.com/search?o=desc&q=bitcoin&s=stars&type=Repositories)
 
 
-###### 开源库：
+
+### 开源库：
 
 - **bitcoinj：**
-A library for working with Bitcoin
-https://bitcoinj.github.io/
-https://github.com/bitcoinj/bitcoinj
+
+    A library for working with Bitcoin
+
+   -  https://bitcoinj.github.io/
+   - https://github.com/bitcoinj/bitcoinj
+   
 
 - **bitcoinjs**
 Open Source Organisation for Bitcoin JavaScript libraries
