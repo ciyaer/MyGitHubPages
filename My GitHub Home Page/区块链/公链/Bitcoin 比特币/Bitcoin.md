@@ -113,6 +113,7 @@
    -  https://bitcoinj.github.io/
    - https://github.com/bitcoinj/bitcoinj
 
+
 * * *
 - **bitcoinjs:**
 
@@ -122,12 +123,14 @@
     
     - https://github.com/bitcoinjs/bitcoinjs-lib
     
+    
 * * *
 - **CoreBitcoin:**
 
     Awesome Bitcoin toolkit for ObjC and Swift
 
     - https://github.com/oleganza/CoreBitcoin
+
 
 * * *
 - **Bitcore:**
@@ -150,17 +153,22 @@
     - https://github.com/bither/bitheri
     
 
-- **BitcoinKit**
-Bitcoin protocol toolkit for Swift
-https://github.com/yenom/BitcoinKit
-https://github.com/kishikawakatsumi/BitcoinKit
-https://github.com/Jax1993/BitcoinKit
+- **BitcoinKit:**
 
-- **Bitcoin Developer Reference：**
-https://bitcoin.org/en/developer-reference
-https://bitcoin.org/en/developer-guide
-https://bitcoin.org/zh_CN/
-https://bitcoin.org/zh_CN/development#more
+    Bitcoin protocol toolkit for Swift
+    
+    - https://github.com/yenom/BitcoinKit
+    - https://github.com/kishikawakatsumi/BitcoinKit
+    - https://github.com/Jax1993/BitcoinKit
+
+
+- **Bitcoin Developer Reference:**
+
+    - https://bitcoin.org/en/developer-reference
+    - https://bitcoin.org/en/developer-guide
+    - https://bitcoin.org/zh_CN/
+    - https://bitcoin.org/zh_CN/development#more
+    
 
 - **BitcoinDeveloperGuide_zhcn：比特币开发者指南(中文版)**
 https://github.com/vacing/BitcoinDeveloperGuide_zhcn
