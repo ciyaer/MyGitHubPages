@@ -3,7 +3,9 @@
 
 > **BTC Bitcoin 比特币资料收集，欢迎补充！**
 
-**❀ 比特币的发行总量的极限值是2100万 ❀**
+> **❀ 比特币的发行总量的极限值是2100万 ❀**
+
+* * *
 
 
 
@@ -31,6 +33,7 @@
 - **BitPay Insight**
     
     https://insight.bitpay.com
+    
     https://test-insight.bitpay.com
 
 
