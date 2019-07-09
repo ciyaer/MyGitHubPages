@@ -35,7 +35,7 @@
 
 ## 区块链
 
-* **知识储备**
+* **[知识储备](https://github.com/ciyaer/MyGitHubPages/tree/master/My%20GitHub%20Home%20Page/区块链/知识储备)**
     * 区块链字典
     * 书单
 * **[工具](https://github.com/ciyaer/MyGitHubPages/tree/master/My%20GitHub%20Home%20Page/区块链/工具)**
