@@ -1,10 +1,7 @@
 # BTC Bitcoin 比特币资料集（BTC 钱包开发）
 
 * * *
-> **BTC Bitcoin 比特币资料收集，欢迎补充！**
->
 > **❀ 比特币的发行总量的极限值是2100万 ❀**
-
 * * *
 
 
@@ -102,7 +99,7 @@
 - [Bitcoin Github 搜索结果](https://github.com/search?o=desc&q=bitcoin&s=stars&type=Repositories)
 
 
-
+* * *
 ### 开源库：
 
 * * *
@@ -267,69 +264,123 @@
     - https://github.com/consenlabs/token-core-android
 
 
+* * *
+### iOS BTC Wallet：
 
-#### iOS BTC Wallet：
-
+* * *
 - **breadwallet-ios：**
-bread - bitcoin wallet 
-http://breadapp.com
-https://github.com/voisine/breadwallet-ios
+
+    bread - bitcoin wallet 
+
+    - http://breadapp.com
+    - https://github.com/voisine/breadwallet-ios
 
 
+* * *
 - **BitStore-iOS：**
-Native iOS Bitcoin wallet 
-http://bitstoreapp.com
-https://github.com/BitStore/BitStore-iOS
 
+    Native iOS Bitcoin wallet 
+
+    - http://bitstoreapp.com
+    - https://github.com/BitStore/BitStore-iOS
+    
+
+* * *
 - **iOS_Blockchain-Merchant：**
-Blockchain, merchant, QR code, Bitcoin wallet, BTC, Payment integration
-https://github.com/chuch0805/iOS_Blockchain-Merchant
 
+    Blockchain, merchant, QR code, Bitcoin wallet, BTC, Payment integration
+
+    - https://github.com/chuch0805/iOS_Blockchain-Merchant
+
+
+* * *
 - **chance_btc_wallet：**
-Chance Bitcoin Wallet — swift opensource bitcoin wallet
-https://github.com/zhiquan911/chance_btc_wallet
 
+    Chance Bitcoin Wallet — swift opensource bitcoin wallet
+
+    - https://github.com/zhiquan911/chance_btc_wallet
+
+
+* * *
 - **Airbitz**
-Airbitz iOS GUI
-https://github.com/Airbitz/airbitz-ios-gui-private
+    
+    Airbitz iOS GUI
 
+    - https://github.com/Airbitz/airbitz-ios-gui-private
+
+
+* * *
 - **WalletCordova**
-GreenAddress' open source Android (Cordova) client [https://greenaddress.it/](https://greenaddress.it/)
-https://github.com/greenaddress/WalletCordova
 
+    GreenAddress' open source Android (Cordova) client [https://greenaddress.it/](https://greenaddress.it/)
+
+    - https://github.com/greenaddress/WalletCordova
+
+
+* * *
 - **CoinSpace**
-Coin.Space Digital currency wallet [https://www.coin.space](https://www.coin.space/)
-https://github.com/CoinSpace/CoinSpace
 
+    Coin.Space Digital currency wallet [https://www.coin.space](https://www.coin.space/)
+
+    - https://github.com/CoinSpace/CoinSpace
+
+
+* * *
 - **Bither**
-Bither - a simple and secure Bitcoin wallet! [http://bither.net](http://bither.net/)
-https://github.com/bither/bither-ios
 
+    Bither - a simple and secure Bitcoin wallet! [http://bither.net](http://bither.net/)
+    
+    - https://github.com/bither/bither-ios
+
+
+* * *
 - **arcbit-ios**
-arcbit - iOS bitcoin wallet [http://arcbit.io](http://arcbit.io/)
-https://github.com/arcbit/arcbit-ios
 
+    arcbit - iOS bitcoin wallet [http://arcbit.io](http://arcbit.io/)
+
+    - https://github.com/arcbit/arcbit-ios
+
+
+* * *
 - **mycelium-wallet-ios**
-Mycelium Bitcoin Wallet for iOS.  [http://mycelium.com](http://mycelium.com/)
-https://github.com/mycelium-com/wallet-ios
 
+    Mycelium Bitcoin Wallet for iOS.  [http://mycelium.com](http://mycelium.com/)
+
+    - https://github.com/mycelium-com/wallet-ios
+    
+    
+* * *
 - **bank-wallet-ios-app**
-A secure and fully decentralized crypto currency wallet app for iOS users. This wallet uses SPV protocol. [http://horizontalsystems.io](http://horizontalsystems.io/)
-https://github.com/horizontalsystems/bank-wallet-ios-app
 
-###### Android BTC Wallet：
+    A secure and fully decentralized crypto currency wallet app for iOS users. This wallet uses SPV protocol. [http://horizontalsystems.io](http://horizontalsystems.io/)
+
+    - https://github.com/horizontalsystems/bank-wallet-ios-app
+
+
+* * *
+### Android BTC Wallet：
 
 - **samourai-wallet-android**
-Samourai Bitcoin Wallet for Android.  [https://samouraiwallet.com](https://samouraiwallet.com/)
-https://github.com/Samourai-Wallet/samourai-wallet-android
 
+    Samourai Bitcoin Wallet for Android.  [https://samouraiwallet.com](https://samouraiwallet.com/)
+
+    - https://github.com/Samourai-Wallet/samourai-wallet-android
+
+
+* * *
 - **mycelium-wallet-android**
-Mycelium Bitcoin Wallet for Android [http://mycelium.com](http://mycelium.com/)
-https://github.com/mycelium-com/wallet-ios
 
+    Mycelium Bitcoin Wallet for Android [http://mycelium.com](http://mycelium.com/)
+
+    - https://github.com/mycelium-com/wallet-ios
+
+
+* * *
 - **bank-wallet-android-app**
-A secure and fully decentralized crypto currency wallet app for Android users. This wallet uses SPV protocol.[http://horizontalsystems.io](http://horizontalsystems.io/)
-https://github.com/horizontalsystems/bank-wallet-android-app
+
+    A secure and fully decentralized crypto currency wallet app for Android users. This wallet uses SPV protocol.[http://horizontalsystems.io](http://horizontalsystems.io/)
+
+    - https://github.com/horizontalsystems/bank-wallet-android-app
 
 
 
